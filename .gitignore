@@ -1,1 +1,3 @@
-*.temp password.txt
+*.temp
+password.txt
+.gitignore
